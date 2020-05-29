@@ -1,3 +1,32 @@
-baseURL = "http://example.org/"
+title = "Mystical Rose School of Caloocan"
+baseURL = "https://www.mysticalroseschoolofcaloocan.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+theme = "gohugo-theme-ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 5 #
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "A school in Caloocan"
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-dark-blue"
+  featured_image = "/images/mystical-facade.jpg"
+  recent_posts_number = 2
