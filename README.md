@@ -1,2 +1,19 @@
 # Mystical Rose School of Caloocan Website
 This is the website for MRSCI.
+
+Powered by [Hugo](https://gohugo.io/).
+
+Hugo Theme is [Ananke](https://github.com/budparr/gohugo-theme-ananke).
+
+Hosted on [GitHub Pages](https://pages.github.com/).
+
+## Build Instructions
+
+1. Run hugo to build website to docs.
+2. git push
+
+## Update Submodule
+
+'''
+git submodule update --remote --merge
+'''
