@@ -17,7 +17,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
+  favicon = "favicon.ico"
   description = "A school in Caloocan"
   facebook = ""
   twitter = ""
