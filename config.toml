@@ -2,7 +2,6 @@ title = "Mystical Rose School of Caloocan"
 baseURL = "https://www.mysticalroseschoolofcaloocan.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
-publishDir = "docs"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
