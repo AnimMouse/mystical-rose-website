@@ -9,8 +9,8 @@ Hosted on [GitHub Pages](https://pages.github.com/).
 
 ## Build Instructions
 
-1. Run build.bat to run hugo to build website to docs.
-2. git push
+1. Run build.bat to run hugo to build website to gh-pages.
+2. git push origin gh-pages
 
 ## Update Submodule
 
