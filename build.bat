@@ -3,5 +3,6 @@ setlocal
 set HUGO_ENV=production
 hugo
 cd public
-git add --all
+git add .
+git commit
 cd ..
