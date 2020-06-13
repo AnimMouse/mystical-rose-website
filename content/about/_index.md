@@ -1,7 +1,6 @@
 ---
 title: "About"
 description: "A school in Caloocan."
-featured_image: ''
 ---
 {{< figure src="/images/mystical-logo.png" title="Our Logo:" >}}
 
