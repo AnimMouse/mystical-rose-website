@@ -6,7 +6,7 @@ theme = "gohugo-theme-ananke"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 5 #
+Paginate = 5
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -22,7 +22,7 @@ enableRobotsTXT = true
   facebook = "https://www.facebook.com/Mystical_OSA25-1979746802340645/"
   twitter = ""
   instagram = ""
-  youtube = ""
+  youtube = "https://www.youtube.com/channel/UCpZUF9ShbeVxXtkE9FFV4_Q"
   github = ""
   gitlab = ""
   linkedin = ""
