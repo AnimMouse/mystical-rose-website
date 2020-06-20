@@ -3,9 +3,9 @@ title: "Grade 11 Verification"
 date: 2020-06-20T18:48:22+08:00
 ---
 
-WHAT: GRADE 11 VERIFICATION OF SCHOOL DOCUMENTS
+What: Grade 11 Verification of School Documents
 
-WHERE: MRSCI DOÑA HELEN BLDG. (BSESIDE PLDT CAMARIN BRANCH)
+Where: MRSCI Doña Helen Bldg. (Beside PLDT Camarin Branch)
 
 Reminders:
 1. Call cashier's office at 8529-0633 to verify the starus of the student account.
