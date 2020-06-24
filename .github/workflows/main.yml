@@ -20,6 +20,9 @@ jobs:
         with:
           hugo-version: 'latest'
 
+      - name: Add CNAME
+        run: echo "www.mysticalroseschoolofcaloocan.com" >> ./public/CNAME
+        
       - name: Build Hugo
         run: hugo
 
