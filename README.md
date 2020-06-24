@@ -7,10 +7,11 @@ Hugo Theme is [Ananke](https://github.com/budparr/gohugo-theme-ananke).
 
 Hosted on [GitHub Pages](https://pages.github.com/).
 
-## Build Instructions
+Continuous Integration and Continuous Delivery using [GitHub Actions](https://github.com/features/actions).
 
-1. Run build.bat to run hugo to build website to gh-pages.
-2. git push origin gh-pages
+Automated Build using [GitHub Actions for Hugo](https://github.com/peaceiris/actions-hugo)
+
+Automated Deployment using [GitHub Actions for GitHub Pages](https://github.com/peaceiris/actions-gh-pages)
 
 ## Update Submodule
 
