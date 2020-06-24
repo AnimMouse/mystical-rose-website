@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "A school in Caloocan."
+description: "A private school in Camarin, North Caloocan, Philippines"
 ---
 {{< figure src="/images/mystical-logo.png" title="Our Logo:" >}}
 
