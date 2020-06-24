@@ -21,7 +21,7 @@ jobs:
           hugo-version: 'latest'
         
       - name: Build Hugo
-        run: hugo
+        run: HUGO_ENV=production hugo
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
