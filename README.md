@@ -12,9 +12,3 @@ Continuous Integration and Continuous Delivery using [GitHub Actions](https://gi
 Automated Build using [GitHub Actions for Hugo](https://github.com/peaceiris/actions-hugo)
 
 Automated Deployment using [GitHub Actions for GitHub Pages](https://github.com/peaceiris/actions-gh-pages)
-
-## Update Submodule
-
-```
-git submodule update --remote --merge
-```
