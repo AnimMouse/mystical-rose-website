@@ -3,7 +3,6 @@ baseURL = "https://www.mysticalroseschoolofcaloocan.com"
 languageCode = "en-us"
 theme = "ananke"
 
-MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 5
