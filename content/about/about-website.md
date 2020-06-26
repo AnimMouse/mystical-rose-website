@@ -4,7 +4,7 @@ date: 2020-05-29T20:38:13+08:00
 ---
 Powered by [Hugo](https://gohugo.io/).
 
-Hugo Theme is [Ananke](https://github.com/budparr/gohugo-theme-ananke).
+Hugo Theme is [Ananke](https://github.com/theNewDynamic/gohugo-theme-ananke).
 
 Hosted on [GitHub Pages](https://pages.github.com/).
 
