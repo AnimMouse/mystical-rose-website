@@ -1,8 +1,7 @@
 ---
 title: "Core Values"
-date: 2020-05-29T20:43:50+08:00
+date: 2020-05-29T20:42:50+08:00
 ---
-
 HuMility:
 We acknowledge and celebrate each of our achievements, keeping both feet on the ground, We know that each one of us have strengths and limitations.
 

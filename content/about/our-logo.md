@@ -1,6 +1,6 @@
 ---
 title: "Our Logo"
-date: 2020-05-29T01:07:07+08:00
+date: 2020-05-29T20:41:13+08:00
 ---
 {{< figure src="/images/mystical-logo.png" >}}
 

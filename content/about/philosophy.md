@@ -1,6 +1,6 @@
 ---
 title: "Philosophy"
-date: 2020-05-29T20:43:13+08:00
+date: 2020-05-29T20:42:13+08:00
 ---
 Pilosopo of the School:
 
