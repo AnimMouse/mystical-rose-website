@@ -1,10 +1,13 @@
-name: Hugo Deploy
+name: Deploy Hugo Website
 
 on:
   push:
     branches:
       - master
-
+  pull_request:
+    branches:
+      - master
+      
 jobs:
   deploy:
     runs-on: ubuntu-20.04
@@ -21,7 +24,7 @@ jobs:
           hugo-version: 'latest'
         
       - name: Build Hugo
-        run: HUGO_ENV=production hugo
+        run: HUGO_ENV=production hugo # HUGO_ENV is required by Ananke for production
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
