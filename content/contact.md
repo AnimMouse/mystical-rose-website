@@ -26,9 +26,13 @@ Mystical New Telephone: (02) 85290633
 
 Cellphone Number:
 
-Mystical 1: 09615086428
+Mystical Office: 09215232583
 
-Mystical 2: 09770036204
+Mystical OSA 1: 09615086428
+
+Mystical OSA 2: 09770036204
+
+Office email: mrsci@yahoo.com
 
 Office of Student Affairs email: mrsci_osa@mrsci.ph.education
 
