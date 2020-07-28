@@ -17,7 +17,7 @@ jobs:
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 1
-
+          
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
@@ -25,11 +25,17 @@ jobs:
         
       - name: Build Hugo
         run: HUGO_ENV=production hugo # HUGO_ENV is required by Ananke for production
-
-      - name: Deploy
+        
+      - name: Upload Website Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: website
+          path: public
+          
+      - name: Deploy to GitHub Pages
         if: ${{ github.event_name == 'push' }}
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          publish_dir: public
           cname: www.mysticalroseschoolofcaloocan.com
