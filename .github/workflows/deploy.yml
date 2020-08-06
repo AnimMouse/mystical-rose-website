@@ -16,21 +16,23 @@ jobs:
         uses: actions/checkout@v2
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 1
           
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
-        
+          
       - name: Build Hugo
-        run: HUGO_ENV=production hugo # HUGO_ENV is required by Ananke for production
-        
-      - name: Upload Website Artifact
+        run: hugo
+        env:
+          HUGO_ENV: production # HUGO_ENV is required by Ananke theme for production
+          
+      - name: Upload Website Source Code
+        if: ${{ github.event_name == 'pull_request' }}
         uses: actions/upload-artifact@v2
         with:
-          name: website
-          path: public
+          name: source
+          path: ${{ github.workspace }}
           
       - name: Deploy to GitHub Pages
         if: ${{ github.event_name == 'push' }}
