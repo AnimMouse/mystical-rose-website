@@ -32,9 +32,13 @@ Mystical OSA 1: 09615086428
 
 Mystical OSA 2: 09770036204
 
+LMS Technical Support: 09976276146
+
 Office email: mrsci@yahoo.com
 
 Office of Student Affairs email: mrsci_osa@mrsci.ph.education
+
+LMS Technical Support email: mrsci_leonielabaca@mrsci.ph.education
 
 Webmaster email: contact@mysticalroseschoolofcaloocan.com
 
