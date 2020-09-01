@@ -1,6 +1,6 @@
 ---
 title: "History"
-date: 2020-05-29T20:40:13+08:00
+date: 2020-05-29T21:48:02+08:00
 ---
 The Mystical Rose School of Caloocan, Inc. began as preschool in 1993. Founded by the couple Dr. Rolando Molato-Gregore and Dr. Marcelina Loqueño-Gregore, both Doctor of Philosophy in Developmental Education.
 

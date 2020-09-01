@@ -1,6 +1,6 @@
 ---
 title: "Old Mission Vision"
-date: 2020-05-29T20:39:13+08:00
+date: 2020-05-29T21:48:01+08:00
 ---
 Old Mission & Vision. DO NOT USE!
 

@@ -1,21 +1,21 @@
 ---
 title: "Core Values"
-date: 2020-05-29T20:42:50+08:00
+date: 2020-05-29T21:48:05+08:00
 ---
-HuMility:
+HuMility:\
 We acknowledge and celebrate each of our achievements, keeping both feet on the ground, We know that each one of us have strengths and limitations.
 
-CReativity:
+CReativity:\
 We accept change as an opportunity; we challenge conventional thinking and implement new ideas.
 
-ReSpect:
+ReSpect:\
 We practice fair judgment and we act responsibly mindful of other's feelings.
 
-ExCellence:
+ExCellence:\
 We all share the responsibility to give the best that we can in everything that we do.
 
-AltruIsm:
+AltruIsm:\
 We treat all those we serve with compassion and kindness.
 
-Continuous Learning:
+Continuous Learning:\
 We believe that knowledge empowers and learning leads to change.
