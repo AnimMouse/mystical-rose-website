@@ -2,7 +2,7 @@
 title: "Our Logo"
 date: 2020-05-29T21:48:03+08:00
 ---
-{{< figure src="/images/mystical-logo.png" >}}
+{{< figure src="/images/mystical-logo-old.png" >}}
 
 The School Logo carries four symbols: The Torch, the Book, the Dove and the Laurel Leaves.
 
