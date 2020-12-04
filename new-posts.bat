@@ -7,4 +7,4 @@ set Name=
 set /p Name=Name:
 if NOT defined Name goto Start
 hugo new content\post\%Name%.md
-exit
+goto Start
