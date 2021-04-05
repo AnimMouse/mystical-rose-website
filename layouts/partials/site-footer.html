@@ -1,7 +1,11 @@
-{{ $script := .Site.Data.webpack_assets.app }}
-{{ with $script.js }}
-  <script src="{{ relURL (printf "%s%s" "dist/" .) }}"></script>
-{{ end }}
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
+    &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+  </a>
+    <div>{{ partial "social-follow.html" . }}</div>
+  </div>
+</footer>
 <!-- PropellerAds Push Notifications --><script src="https://propu.sh/pfe/current/tag.min.js?z=3357961" data-cfasync="false" async></script>
 <!-- PropellerAds Onclick Popunder --><script>(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://iclickcdn.com/tag.min.js',3357975,document.body||document.documentElement)</script>
 <!-- RevenueHits --><script data-cfasync='false' type='text/javascript' src='//p402193.clksite.com/adServe/banners?tid=402193_789370_0&tagid=2'></script>
