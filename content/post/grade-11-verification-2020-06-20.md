@@ -2,7 +2,6 @@
 title: "Grade 11 Verification"
 date: 2020-06-20T18:48:22+08:00
 ---
-
 What: Grade 11 Verification of School Documents
 
 Where: MRSCI Doña Helen Bldg. (Beside PLDT Camarin Branch)

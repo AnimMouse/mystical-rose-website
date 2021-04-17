@@ -2,7 +2,6 @@
 title: "Grade 11 Card Schedule"
 date: 2020-06-20T19:08:43+08:00
 ---
-
 June 22, 2020 (Monday)
 
 9:00 - 11:00 am - Jacinto, Aquino Zamora

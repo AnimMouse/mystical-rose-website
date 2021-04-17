@@ -1,5 +1,5 @@
 ---
-title: "National Teachers Month 2020"
+title: "National Teachers Month"
 date: 2020-10-02T18:58:57+08:00
 ---
 In commemoration of the National Teacher’s Month this OCTOBER 5, 2020.

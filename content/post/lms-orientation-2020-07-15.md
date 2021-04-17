@@ -1,9 +1,6 @@
 ---
 title: "LMS Orientation"
 date: 2020-07-15T13:02:31+08:00
-tags: []
-featured_image: ""
-description: ""
 ---
 BE INFORMED!
 

@@ -1,7 +1,6 @@
 ---
 title: "New Normal"
 date: 2020-05-25T00:55:56+08:00
-draft: true
 ---
 As we adapt to the new normal due to the pandemic, the students’ experience on instructional learning will change.
 
