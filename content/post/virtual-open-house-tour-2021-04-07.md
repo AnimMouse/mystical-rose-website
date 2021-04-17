@@ -1,0 +1,7 @@
+---
+title: "Virtual Open House Tour"
+date: 2021-04-07T18:41:43+08:00
+---
+ENLIST NOW! TOGETHER WE CAN DO BETTER!
+
+MAY 2021 VIRTUAL TOUR REGISTRATION LINK: https://tinyurl.com/MRSCIVTOUR2021
