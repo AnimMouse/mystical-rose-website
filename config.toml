@@ -8,7 +8,6 @@ SectionPagesMenu = "main"
 Paginate = 5
 googleAnalytics = ""
 enableRobotsTXT = true
-disqusShortname = "mrsci"
 
 [sitemap]
   changefreq = "monthly"
