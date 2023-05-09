@@ -5,7 +5,7 @@ theme = "ananke"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 5
+Paginate = 10
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -15,21 +15,23 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
+  text_color = ""
+  author = "MRSCI"
   favicon = "favicon.ico"
   site_logo = ""
   description = "A private school in Camarin, North Caloocan, Philippines"
-  facebook = "https://www.facebook.com/mrsciofficial/"
-  twitter = "https://www.facebook.com/osapagelive/"
-  instagram = ""
-  youtube = "https://www.youtube.com/channel/UC2LINhbeAwuo93LO-VUlpyg"
-  github = "https://github.com/AnimMouse/mystical-rose-website"
-  gitlab = ""
-  linkedin = ""
-  mastodon = ""
-  slack = ""
-  stackoverflow = ""
-  rss = "https://graizoah.com/afu.php?zoneid=3358676"
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-dark-blue"
-  featured_image = "/images/mystical-facade.jpg"
-  recent_posts_number = 5
+  recent_posts_number = 10
+
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://www.facebook.com/mrsciofficial"
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://www.facebook.com/osapagelive"
+
+[[params.ananke_socials]]
+name = "youtube"
+url = "https://www.youtube.com/channel/UC2LINhbeAwuo93LO-VUlpyg"

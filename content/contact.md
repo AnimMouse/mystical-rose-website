@@ -10,9 +10,9 @@ Our Address:
 
 Mystical Ilang-ilang (Main Building): 15 Ilang-ilang St., Almar Subd., Camarin, Caloocan City, Philippines
 
-Mystical Sampaguita (Elementary Building): Sampaguita St., Almar Subd., Camarin, Caloocan City, Philippines
+Mystical Sampaguita (Elementary Building): Blk. 6 Lot 23, Sampaguita St., Almar Subd., Camarin, Caloocan City, Philippines
 
-Mystical Doña Helen (New Building): Camarin Road, Doña Helen, Camarin, Caloocan City, Philippines
+Mystical St. Joseph (New Building): Lot 1 & 2, Camarin Road, Doña Helen, Camarin, Caloocan City, Philippines
 
 Telephone Number:
 
@@ -42,4 +42,4 @@ LMS Technical Support email: mrsci_leonielabaca@mrsci.ph.education
 
 Webmaster email: contact@mysticalroseschoolofcaloocan.com
 
-Website Source Code at [GitHub](https://github.com/AnimMouse/mystical-rose-website)
+Website source code at [GitHub](https://github.com/AnimMouse/mystical-rose-website).
