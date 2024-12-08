@@ -3,7 +3,7 @@
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}" >
     &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
   </a>
-    <div>{{ partial "social-follow.html" . }}</div>
+    <div>{{ partialCached "social/follow.html" . }}</div>
   </div>
 </footer>
 <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "ac20ec8a09ef4749b604dbf7c57f7827"}'></script><!-- End Cloudflare Web Analytics -->
