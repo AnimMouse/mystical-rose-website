@@ -21,5 +21,6 @@ jobs:
       branch: ${{ github.head_ref || 'main' }}
       ref: ${{ github.event.pull_request.head.sha }}
       cache_resources: true
+      extended: true
     secrets:
       api_token: ${{ secrets.CLOUDFLARE_API_TOKEN }}
